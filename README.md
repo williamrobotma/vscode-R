@@ -76,3 +76,4 @@ To enable BiocManager and not automatically install packages when initializing r
   - `renv::init(bare = TRUE, bioconductor = TRUE)`
 
 Don't forget to `renv::activate()` and `renv::snapshot()`.
+
